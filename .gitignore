@@ -1,1 +1,4 @@
 /.obsidian
+*.tmp
+.DS_Store 
+.github/
